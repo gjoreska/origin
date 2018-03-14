@@ -1,0 +1,6 @@
+C:\Users\141087\lab1>git log
+commit c04e3fcc678a54e0e7427c53a5629ab8f86a853a (HEAD -> logging, origin/master, master)
+Author: gjoreska.simona@students.finki.ukim.mk <gjoreska.simona@students.finki.ukim.mk>
+Date:   Wed Mar 14 17:27:18 2018 +0100
+
+    modify l1.txt
